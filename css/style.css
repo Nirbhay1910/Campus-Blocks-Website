@@ -265,7 +265,20 @@ header.style1 p {
   color: #b1b4b9;
 }
 
+.team-member-name {
+  margin: 0px;
+  padding: 0px;
+}
+.team-member-box {
+  display: flex;
+}
 /* Image */
+.team-member-img {
+  margin-right: 25px;
+  border-radius: 100%;
+  width: 6rem;
+  height: 6rem;
+}
 .mentor-img {
   display: block;
   width: 11rem;
